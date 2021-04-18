@@ -7,23 +7,23 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="710mm"
-   height="710mm"
-   viewBox="0 0 710 710"
+   width="2000"
+   height="2000"
+   viewBox="0 0 529.16666 529.16666"
    version="1.1"
    id="svg8"
    inkscape:export-filename="C:\Users\basak\Desktop\Fundline_svg.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   sodipodi:docname="fundline_svg_fimage.svg"
+   sodipodi:docname="fundline_logo.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <defs
      id="defs2">
     <rect
-       x="81.642857"
+       x="81.64286"
        y="381"
-       width="546.55357"
-       height="259.29167"
+       width="546.55359"
+       height="259.29166"
        id="rect230" />
   </defs>
   <sodipodi:namedview
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="2218.8585"
-     inkscape:cy="1724.8905"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="2543.081"
+     inkscape:cy="1227.6713"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -44,7 +44,9 @@
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:showpageshadow="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -62,29 +64,29 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#000080;stroke:#000000;stroke-width:0.704027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 33.638125,281.62385 160.820025,-113.14727 291.2662,114.15306 116.16456,-74.4258 c 0,0 4.02303,-13.07477 -16.09204,-13.07477 -20.11504,0 104.59837,-15.08632 104.59837,-15.08632 l -33.69273,96.04948 c 0,0 5.37461,-15.96332 -11.8868,-20.58848 -17.26134,-4.6252 -154.06255,98.03153 -154.06255,98.03153 L 197.07309,233.85061 35.146771,351.52371 Z"
+       style="fill:#000080;stroke:#000000;stroke-width:0.694644px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0.31785925,304.16863 129.71308,167.26635 l 234.35174,138.11923 93.4656,-90.05133 c 0,0 3.23691,-15.8198 -12.9476,-15.8198 -16.18449,0 84.15948,-18.25365 84.15948,-18.25365 l -27.10906,116.21486 c 0,0 4.3244,-19.31479 -9.56407,-24.91101 -13.88841,-5.59622 -123.95818,118.61306 -123.95818,118.61306 L 131.81705,246.3655 1.5317101,388.74381 Z"
        id="path202" />
     <path
-       style="fill:#00ff00;stroke:#000000;stroke-width:0.704027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 195.40278,158.52828 -0.35556,-59.383144 h 85.16323 v 92.097154 z"
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.694644px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 130.47312,155.22941 -0.28608,-71.850511 h 68.52203 V 194.81165 Z"
        id="path222"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:#ff0000;stroke:#000000;stroke-width:0.704027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 295.3859,195.85261 V 61.673315 l 84.36747,4.6e-5 V 227.19056 L 295.3859,195.85261 V 61.673315 h 84.36747 V 227.19056 Z"
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.694644px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 210.91918,200.38991 V 38.03995 l 67.88177,5.4e-5 V 238.30719 L 210.91918,200.38991 V 38.03995 h 67.88177 v 200.26724 z"
        id="path224" />
     <path
-       style="fill:#00ff00;stroke:#000000;stroke-width:0.704027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 395.24801,232.56258 V 30.494985 h 87.38474 V 265.91209 Z"
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.694644px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 291.26789,244.80703 V 0.31579482 h 70.30945 V 285.15822 Z"
        id="path226" />
     <text
        xml:space="preserve"
        id="text228"
-       style="font-style:normal;font-weight:normal;font-size:86.0778px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect230);fill:#006bff;fill-opacity:1;stroke:none;"
-       transform="matrix(1.4174118,0,0,1.3958907,-94.636051,-144.06103)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:86.0778px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect230);fill:#006bff;fill-opacity:1;stroke:none;"
+       transform="matrix(1.4439914,0,0,1.9090464,-128.33007,-343.49022)"><tspan
          x="81.642578"
-         y="459.53138"><tspan
-           style="shape-inside:url(#rect230)">FUND LINE</tspan></tspan></text>
+         y="456.31807"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:86.0778px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect230)">FUND LINE</tspan></tspan></text>
   </g>
 </svg>
