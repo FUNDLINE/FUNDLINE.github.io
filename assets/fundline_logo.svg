@@ -8,8 +8,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2000"
-   height="2000"
-   viewBox="0 0 529.16666 529.16666"
+   height="1531.4139"
+   viewBox="0 0 529.16666 405.1866"
    version="1.1"
    id="svg8"
    inkscape:export-filename="C:\Users\basak\Desktop\Fundline_svg.png"
@@ -64,29 +64,21 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#000080;stroke:#000000;stroke-width:0.694644px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 0.31785925,304.16863 129.71308,167.26635 l 234.35174,138.11923 93.4656,-90.05133 c 0,0 3.23691,-15.8198 -12.9476,-15.8198 -16.18449,0 84.15948,-18.25365 84.15948,-18.25365 l -27.10906,116.21486 c 0,0 4.3244,-19.31479 -9.56407,-24.91101 -13.88841,-5.59622 -123.95818,118.61306 -123.95818,118.61306 L 131.81705,246.3655 1.5317101,388.74381 Z"
+       style="fill:#000080;stroke:none;stroke-width:0.626057px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 26.458333,300.3101 143.07764,176.92494 354.29053,301.40688 438.52776,220.24682 c 0,0 2.91731,-14.25782 -11.66922,-14.25782 -14.5865,0 75.84995,-16.45137 75.84995,-16.45137 l -24.43244,104.74033 c 0,0 3.89744,-17.40775 -8.61974,-22.45141 C 457.13917,266.78287 357.9372,378.72829 357.9372,378.72829 L 144.97387,248.21418 27.552334,376.53471 Z"
        id="path202" />
     <path
-       style="fill:#00ff00;stroke:#000000;stroke-width:0.694644px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 130.47312,155.22941 -0.28608,-71.850511 h 68.52203 V 194.81165 Z"
+       style="fill:#00ff00;stroke:none;stroke-width:0.626379;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 143.76265,166.07647 -0.25784,-64.75632 h 61.75647 v 100.43039 z"
        id="path222"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:#ff0000;stroke:#000000;stroke-width:0.694644px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 210.91918,200.38991 V 38.03995 l 67.88177,5.4e-5 V 238.30719 L 210.91918,200.38991 V 38.03995 h 67.88177 v 200.26724 z"
+       style="fill:#ff0000;stroke:none;stroke-width:0.626379;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 216.2658,206.77802 V 60.457773 l 61.17943,4.9e-5 V 240.95152 L 216.2658,206.77802 V 60.457773 h 61.17943 V 240.95152 Z"
        id="path224" />
     <path
-       style="fill:#00ff00;stroke:#000000;stroke-width:0.694644px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 291.26789,244.80703 V 0.31579482 h 70.30945 V 285.15822 Z"
+       style="fill:#00ff00;stroke:none;stroke-width:0.626379;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 288.68125,246.8096 V 26.458333 h 63.36741 V 283.17668 Z"
        id="path226" />
-    <text
-       xml:space="preserve"
-       id="text228"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:86.0778px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect230);fill:#006bff;fill-opacity:1;stroke:none;"
-       transform="matrix(1.4439914,0,0,1.9090464,-128.33007,-343.49022)"><tspan
-         x="81.642578"
-         y="456.31807"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:86.0778px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect230)">FUND LINE</tspan></tspan></text>
   </g>
 </svg>
