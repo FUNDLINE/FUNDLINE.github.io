@@ -15,7 +15,40 @@
    sodipodi:docname="fundline-text.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <defs
-     id="defs12" />
+     id="defs12">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter849">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(100,100,100)"
+         result="flood"
+         id="feFlood839" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite841" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="5"
+         result="blur"
+         id="feGaussianBlur843" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset845" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite847" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -45,7 +78,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,7 +90,7 @@
        aria-label="FUNDLINE"
        transform="scale(1.0320304,0.96896371)"
        id="text22"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:114.473px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000080;fill-opacity:1;stroke:none;stroke-width:2.86186">
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:114.473px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000080;fill-opacity:1;stroke:none;stroke-width:2.86186;filter:url(#filter849)">
       <path
          d="m 63.64571,18.124499 q 0,1.062003 -0.11179,1.844532 -0.11179,0.782529 -0.391264,1.285583 -0.279475,0.447159 -0.670739,0.670739 -0.33537,0.22358 -0.726634,0.22358 H 35.251091 v 24.593764 h 25.040924 q 0.391264,0 0.726634,0.22358 0.391264,0.167684 0.670739,0.614844 0.279474,0.447159 0.391264,1.229688 0.11179,0.726634 0.11179,1.900427 0,1.062004 -0.11179,1.844533 -0.11179,0.726633 -0.391264,1.229688 -0.279475,0.447159 -0.670739,0.726634 -0.33537,0.223579 -0.726634,0.223579 H 35.251091 v 30.127362 q 0,0.391264 -0.223579,0.782528 -0.22358,0.33537 -0.782529,0.55895 -0.55895,0.167684 -1.453268,0.279474 -0.894319,0.167685 -2.347587,0.167685 -1.341478,0 -2.291691,-0.167685 -0.950214,-0.11179 -1.509163,-0.279474 -0.558949,-0.22358 -0.782529,-0.55895 -0.22358,-0.391264 -0.22358,-0.782528 V 17.900919 q 0,-2.179902 1.117899,-3.018326 1.173793,-0.894318 2.459376,-0.894318 h 32.530843 q 0.391264,0 0.726634,0.223579 0.391264,0.22358 0.670739,0.726634 0.279474,0.503054 0.391264,1.341478 0.11179,0.782529 0.11179,1.844533 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:114.473px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000080;fill-opacity:1;stroke-width:2.86186"
