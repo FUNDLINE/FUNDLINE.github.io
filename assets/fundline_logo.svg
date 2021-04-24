@@ -444,20 +444,20 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#000080;stroke:none;stroke-width:0.626057px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter2429)"
+       style="fill:#000080;stroke:#646464;stroke-width:7.9375;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.2;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;"
        d="M 26.458333,300.3101 143.07764,176.92494 354.29053,301.40688 438.52776,220.24682 c 0,0 2.91731,-14.25782 -11.66922,-14.25782 -14.5865,0 75.84995,-16.45137 75.84995,-16.45137 l -24.43244,104.74033 c 0,0 3.89744,-17.40775 -8.61974,-22.45141 C 457.13917,266.78287 357.9372,378.72829 357.9372,378.72829 L 144.97387,248.21418 27.552334,376.53471 Z"
        id="path202" />
     <path
-       style="fill:#00ff00;stroke:none;stroke-width:0.626379;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter2441)"
+       style="fill:#00ff00;stroke:#646464;stroke-width:7.9375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2;paint-order:stroke fill markers;"
        d="m 143.76265,166.07647 -0.25784,-64.75632 h 61.75647 v 100.43039 z"
        id="path222"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:#ff0000;stroke:none;stroke-width:0.626379;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter2453)"
+       style="fill:#ff0000;stroke:#646464;stroke-width:7.9375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2;paint-order:stroke fill markers;"
        d="M 216.2658,206.77802 V 60.457773 l 61.17943,4.9e-5 V 240.95152 L 216.2658,206.77802 V 60.457773 h 61.17943 V 240.95152 Z"
        id="path224" />
     <path
-       style="fill:#00ff00;stroke:none;stroke-width:0.626379;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter2465)"
+       style="fill:#00ff00;stroke:#646464;stroke-width:7.9375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2;paint-order:stroke fill markers;"
        d="M 288.68125,246.8096 V 26.458333 h 63.36741 V 283.17668 Z"
        id="path226" />
   </g>
