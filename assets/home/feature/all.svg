@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="all.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     units="px"
+     width="1000px"
+     inkscape:zoom="4.6746294"
+     inkscape:cx="8.6637884"
+     inkscape:cy="50.164404"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid828" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="opacity:0;fill:none;fill-opacity:0.936475;stroke:#000080;stroke-width:10;stroke-opacity:1"
+       id="rect857"
+       width="60"
+       height="35"
+       x="5"
+       y="5" />
+    <path
+       id="path867"
+       style="fill:none;fill-opacity:0.106776;stroke:#000080;stroke-width:1.951;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-linejoin:round"
+       d="M 50 10.976562 A 39.024395 39.024395 0 0 0 10.976562 50 A 39.024395 39.024395 0 0 0 23.234375 78.320312 L 30.306641 71.246094 A 29.024395 29.024395 0 0 1 20.976562 50 A 29.024395 29.024395 0 0 1 50 20.976562 A 29.024395 29.024395 0 0 1 79.023438 50 A 29.024395 29.024395 0 0 1 72.830078 67.830078 L 70 65 L 67.617188 73.896484 L 65.232422 82.792969 L 74.128906 80.408203 L 83.025391 78.025391 L 79.917969 74.917969 A 39.024395 39.024395 0 0 0 89.023438 50 A 39.024395 39.024395 0 0 0 50 10.976562 z " />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Metropolis;-inkscape-font-specification:'Metropolis, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000080;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round"
+       x="30.490026"
+       y="56.869999"
+       id="text3584"><tspan
+         sodipodi:role="line"
+         id="tspan3582"
+         x="30.490026"
+         y="56.869999">ALL</tspan></text>
+  </g>
+</svg>
