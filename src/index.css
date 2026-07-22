@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cream: #f6f3ea;
+  --color-cream-deep: #efe9d8;
+  --color-forest: #0f3d2e;
+  --color-forest-deep: #0a2c21;
+  --color-forest-mid: #16523d;
+  --color-emerald: #1f7a5a;
+  --color-gold: #c8a24a;
+  --color-gold-soft: #d9be7f;
+  --color-ink: #16211c;
+  --color-muted: #5c6b62;
+
+  --font-display: "Fraunces", Georgia, serif;
+  --font-sans: "Manrope", system-ui, sans-serif;
+  --font-mono: "DM Mono", monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Offset anchor targets so they land below the fixed 72px header */
+section[id],
+div[id="top"] {
+  scroll-margin-top: 88px;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-cream);
+  color: var(--color-ink);
+  -webkit-font-smoothing: antialiased;
+}
+
+.font-display { font-family: var(--font-display); }
+.font-mono { font-family: var(--font-mono); }
+
+::selection {
+  background: var(--color-gold);
+  color: var(--color-forest-deep);
+}
+
+/* Grain / paper texture overlay helper */
+.paper-grain {
+  background-image: radial-gradient(circle at 1px 1px, rgba(15, 61, 46, 0.06) 1px, transparent 0);
+  background-size: 22px 22px;
+}
+
+/* Marquee */
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+.animate-marquee {
+  animation: marquee 34s linear infinite;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar { width: 11px; }
+::-webkit-scrollbar-track { background: #e7e0cd; }
+::-webkit-scrollbar-thumb { background: #16523d; border-radius: 10px; border: 3px solid #e7e0cd; }
+::-webkit-scrollbar-thumb:hover { background: #0f3d2e; }
