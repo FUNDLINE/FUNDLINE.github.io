@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="2000" viewBox="0 0 529 529">
-  <defs/>
-  <g paint-order="stroke markers fill">
-    <path fill="navy" d="M26 362l117-123 211 125 85-82s2-14-12-14c-15 0 76-16 76-16l-25 104s4-17-8-22c-13-5-112 107-112 107L145 310 28 439z"/>
-    <path fill="#0f0" d="M144 228v-65h61v101z"/>
-    <path fill="red" d="M216 269V123h61v180l-61-34V123h61v180z"/>
-    <path fill="#0f0" d="M289 309V89h63v256z"/>
-  </g>
-</svg>
